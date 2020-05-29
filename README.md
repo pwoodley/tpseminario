@@ -8,7 +8,7 @@ https://www.kaggle.com/c/m5-forecasting-accuracy
 
 Paso un link a Google Drive para el dataset inicial ya que son muy pesados para github:
 
-https://drive.google.com/drive/folders/1MTCCfF_ExBaWzIfQHEaJMS99ta_kIjNL?usp=sharing
+https://drive.google.com/drive/folders/1BkI828NDnSVhyFjTI9SSKLQ0U9PGxsI0?usp=sharing
 
 Se trata de información histórica de ventas de 3049 productos repartidos en 3 categorías (Comidas, Hobbies y Productos del Hogar) y 7 departamentos para 10 tiendas localizadas en 3 estados de Estados Unidos: California, Wisconsin y Texas. Las series de tiempo comprenden desde el 29 de enero de 2011 hasta el 19 de junio de 2016.
 
